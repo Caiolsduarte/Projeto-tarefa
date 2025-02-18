@@ -69,8 +69,7 @@ Escaneie o QR Code gerado pelo comando expo start.
 
 Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo LICENSE.
 
-Feito com ❤️ por Seu Nome
+Feito com ❤️ por Caio Leandro
 
 npm install
-npx expo install @expo/metro-runtime
 npm run web
