@@ -1,4 +1,4 @@
-📱 Nome do Projeto
+📱 Criador de Tarefas
 
 Descrição breve da aplicação.
 
@@ -63,13 +63,13 @@ Escaneie o QR Code gerado pelo comando expo start.
 
 🛠️ Principais Funcionalidades
 
-✔️ Funcionalidade 1✔️ Funcionalidade 2✔️ Funcionalidade 3
+✔️ Criar listas de tarefas diarias e lembretes constando prazos de entrega para cada colaborador.✔️ 
 
 📝 Licença
 
 Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo LICENSE.
 
-Feito com ❤️ por Caio Leandro
+Feito com ❤️ por Caio Duarte
 
 npm install
 npm run web
